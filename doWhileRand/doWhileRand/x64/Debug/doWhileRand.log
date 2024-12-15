@@ -1,0 +1,3 @@
+﻿  doWhileRand.cpp
+C:\Users\afued\Documents\doWhileRand\doWhileRand\doWhileRand.cpp(9,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  doWhileRand.vcxproj -> C:\Users\afued\Documents\doWhileRand\x64\Debug\doWhileRand.exe
