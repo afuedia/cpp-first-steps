@@ -1,4 +1,0 @@
-C:\Users\afued\source\repos\Master\Master\x64\Debug\Master.vcxproj.AssemblyReference.cache
-C:\Users\afued\source\repos\Master\Master\x64\Debug\Master.MyForm.resources
-C:\Users\afued\source\repos\Master\Master\x64\Debug\Master.vcxproj.GenerateResource.cache
-C:\Users\afued\source\repos\Master\Master\x64\Debug\Master.MyForm1.resources
