@@ -1,0 +1,4 @@
+C:\Users\afued\source\repos\GridVIUBBDD\GridVIUBBDD\x64\Debug\GridVIUBBDD.vcxproj.AssemblyReference.cache
+C:\Users\afued\source\repos\GridVIUBBDD\GridVIUBBDD\x64\Debug\GridVIUBBDD.MyForm.resources
+C:\Users\afued\source\repos\GridVIUBBDD\GridVIUBBDD\x64\Debug\GridVIUBBDD.vcxproj.GenerateResource.cache
+C:\Users\afued\source\repos\GridVIUBBDD\GridVIUBBDD\x64\Debug\GridVIUB.648C17A4.Up2Date

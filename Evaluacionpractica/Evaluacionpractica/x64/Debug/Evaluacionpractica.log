@@ -1,0 +1,99 @@
+﻿  MyForm.cpp
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(1,1): error C2059: error de sintaxis: 'private'
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(3,5): error C2065: 'String': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(3,13): error C2065: 'correctEmail': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(4,5): error C2065: 'String': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(4,13): error C2065: 'correctPassword': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(7,5): error C2065: 'String': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(7,13): error C2065: 'email': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(7,21): error C2065: 'txtMail': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(8,5): error C2065: 'String': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(8,13): error C2065: 'password': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(8,24): error C2065: 'textUser': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(11,9): error C2065: 'email': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(11,18): error C2065: 'correctEmail': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(11,34): error C2065: 'password': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(11,46): error C2065: 'correctPassword': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(13,9): error C2065: 'String': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(13,17): error C2065: 'paraEnviar': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(13,30): error C2065: 'email': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(14,9): error C2065: 'MyForm1': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(14,18): error C2065: 'Inicio': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(14,33): error C2061: error de sintaxis: identificador 'MyForm1'
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(17,9): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(18,9): error C2065: 'Inicio': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(21,9): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,9): error C2653: 'MessageBox': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,89): error C2653: 'MessageBoxButtons': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,108): error C2065: 'OK': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,112): error C2653: 'MessageBoxIcon': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,128): error C2065: 'Error': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.h(25,21): error C3861: 'Show': no se encontró el identificador
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.cpp(10,2): error C2653: 'Evaluacionpractica': no es un nombre de clase o espacio de nombres
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.cpp(10,22): error C2065: 'MyForm': identificador no declarado
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.cpp(10,29): error C2146: error de sintaxis: falta ';' delante del identificador 'form'
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.cpp(10,29): error C2065: 'form': identificador no declarado
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm.cpp(11,21): error C2065: 'form': identificador no declarado
+  MyForm1.cpp
+C:\Users\afued\source\repos\Evaluacionpractica\Evaluacionpractica\MyForm1.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'MyForm1.h': No such file or directory
+  Generando código...

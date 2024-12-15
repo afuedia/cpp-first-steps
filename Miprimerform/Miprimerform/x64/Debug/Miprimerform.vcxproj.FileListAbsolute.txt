@@ -1,0 +1,3 @@
+C:\Users\afued\source\repos\Miprimerform\Miprimerform\x64\Debug\Miprimerform.vcxproj.AssemblyReference.cache
+C:\Users\afued\source\repos\Miprimerform\Miprimerform\x64\Debug\Miprimerform.MyForm.resources
+C:\Users\afued\source\repos\Miprimerform\Miprimerform\x64\Debug\Miprimerform.vcxproj.GenerateResource.cache

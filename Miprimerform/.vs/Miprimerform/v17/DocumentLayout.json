@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afued\\source\\repos\\Miprimerform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|solutionrelative:Miprimerform\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|solutionrelative:Miprimerform\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21C6A15C-637F-4C20-A5D6-A85440FA9A55}|Miprimerform\\Miprimerform.vcxproj|solutionrelative:Miprimerform\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h",
+              "RelativeDocumentMoniker": "Miprimerform\\MyForm.h",
+              "ToolTip": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h",
+              "RelativeToolTip": "Miprimerform\\MyForm.h",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T18:33:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.cpp",
+              "RelativeDocumentMoniker": "Miprimerform\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.cpp",
+              "RelativeToolTip": "Miprimerform\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T18:23:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h",
+              "RelativeDocumentMoniker": "Miprimerform\\MyForm.h",
+              "ToolTip": "C:\\Users\\afued\\source\\repos\\Miprimerform\\Miprimerform\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "Miprimerform\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-21T18:23:07.748Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

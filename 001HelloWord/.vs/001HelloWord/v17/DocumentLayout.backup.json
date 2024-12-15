@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afued\\source\\repos\\001HelloWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37D5EE9-C06A-416D-8077-F19A9562B5D1}|001HelloWord\\001HelloWord.vcxproj|C:\\Users\\afued\\source\\repos\\001HelloWord\\001HelloWord\\001HelloWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A37D5EE9-C06A-416D-8077-F19A9562B5D1}|001HelloWord\\001HelloWord.vcxproj|solutionrelative:001HelloWord\\001HelloWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "001HelloWord.cpp",
+              "DocumentMoniker": "C:\\Users\\afued\\source\\repos\\001HelloWord\\001HelloWord\\001HelloWord.cpp",
+              "RelativeDocumentMoniker": "001HelloWord\\001HelloWord.cpp",
+              "ToolTip": "C:\\Users\\afued\\source\\repos\\001HelloWord\\001HelloWord\\001HelloWord.cpp",
+              "RelativeToolTip": "001HelloWord\\001HelloWord.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T16:52:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

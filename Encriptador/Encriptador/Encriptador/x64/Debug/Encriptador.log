@@ -1,0 +1,2 @@
+﻿  Encriptador.cpp
+C:\Users\afued\source\repos\Encriptador\Encriptador\Encriptador.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'openssl/sha.h': No such file or directory
